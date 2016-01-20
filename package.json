@@ -4,7 +4,7 @@
   "description": "Python's sys.prefix, handed back as a Promise",
   "main": "index.js",
   "scripts": {
-    "test": "node -e \"require('.')().then(console.log)\""
+    "test": "node -e \"require('./')().then(console.log)\""
   },
   "repository": {
     "type": "git",
