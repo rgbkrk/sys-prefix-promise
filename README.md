@@ -1,5 +1,7 @@
 # sys-prefix-promise
 
+[![Build Status](https://travis-ci.org/rgbkrk/sys-prefix-promise.svg)](https://travis-ci.org/rgbkrk/sys-prefix-promise)
+
 Python's sys.prefix, handed back as a Promise
 
 ```
