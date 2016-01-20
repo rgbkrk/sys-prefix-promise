@@ -1,0 +1,19 @@
+{
+  "name": "sys-prefix-promise",
+  "version": "1.0.0",
+  "description": "Python's sys.prefix, handed back as a Promise",
+  "main": "index.js",
+  "scripts": {
+    "test": "node -e \"require('.')().then(console.log)\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rgbkrk/sys-prefix-promise.git"
+  },
+  "author": "Kyle Kelley <rgbkrk@gmail.com>",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/rgbkrk/sys-prefix-promise/issues"
+  },
+  "homepage": "https://github.com/rgbkrk/sys-prefix-promise#readme"
+}
