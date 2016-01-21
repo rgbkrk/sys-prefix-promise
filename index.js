@@ -7,7 +7,7 @@ module.exports = function sysPrefix() {
           reject(err);
         }
         else {
-          resolve(stdout.toString());
+          resolve(stdout.toString().trim());
         }
       });
   });
